@@ -1,0 +1,51 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Tom Williams",
+      "title": "The Loop: Donald Trump announces 2024 presidential run, Russia tensions rise after missile hits Poland, and basketballer Isaac Humphries comes out as gay",
+      "description": "Get up to speed on today's headlines with The Loop.",
+      "url": "https://www.abc.net.au/news/2022-11-16/latest-news-the-loop-donald-trump-russia-poland-isaac-humphries/101660260",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/948ef941f3a24fff6faa98b2d57cb706?impolicy=wcms_crop_resize&cropH=2420&cropW=4302&xPos=0&yPos=81&width=862&height=485",
+      "publishedAt": "2022-11-16T07:46:08+00:00",
+      "content": "Hi there. It's Wednesday, November 16, and you're reading The Loop, a quick wrap-up of today's news.\r\nLet's start here: Donald Trump has announced his 2024 presidential run\r\nDonald Trump says he will… [+3362 chars]"
+    },
+    {
+
+        "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+        },
+        "author": "Alix Culbertson",
+        "title": "Dominic Raab denies bullying after requesting investigation into himself over two complaints",
+        "description": "<ol><li>Dominic Raab denies bullying after requesting investigation into himself over two complaints  Sky News </li><li>Dominic Raab bullying claims to be examined by ‘independent investigator’, says No 10 – UK politics live  The Guardian </li><li>Suella Br…",
+        "url": "https://news.sky.com/story/dominic-raab-requests-investigation-into-himself-over-two-complaints-against-him-12748689",
+        "urlToImage": "https://e3.365dm.com/22/10/1600x900/skynews-dominic-raab-downing-street_5943239.jpg?20221116120119",
+        "publishedAt": "2022-11-16T13:18:45+00:00",
+        "content": "Dominic Raab has denied bullying claims and he requested an investigation into himself following two formal complaints made against him after days of allegations. Speaking at Prime Minister's Questi… [+3543 chars]"
+        }
+    
+  ]
+}
